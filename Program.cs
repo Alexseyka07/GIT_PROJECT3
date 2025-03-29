@@ -12,4 +12,8 @@
     private static int Sum(int a, int b){
         return a + b;
     } 
+
+    private static int Mult(int a, int b) {
+        return a * b;
+    }
 }
