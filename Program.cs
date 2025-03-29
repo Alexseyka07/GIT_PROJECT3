@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Я меня main в другой ветке!!!");
+        Console.WriteLine("Я меня");
     }
 
     private static void Welcome(){
