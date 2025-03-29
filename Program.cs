@@ -5,8 +5,8 @@
         Console.WriteLine("Я меня");
     }
 
-    private static void Welcome(){
-        System.Console.WriteLine("Hi");
+    private static void Welcome(string name){
+        System.Console.WriteLine($"Hi, {name}");
     }
 
     private static int Sum(int a, int b){
